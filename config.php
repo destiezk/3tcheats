@@ -3,7 +3,7 @@ session_start();
 
 $servername = "localhost";
 $username = "root";
-$password = "fscclan2020";
+$password = "";
 $dbname = "3t3rn";
     
 // MySQL Details
